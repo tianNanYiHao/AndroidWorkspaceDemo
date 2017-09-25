@@ -19,7 +19,7 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentRight="true"
         android:layout_below="@+id/textView1"
-        android:hint="在此处输入手机号码"
+        android:hint="在此处输入电话"
         android:ems="10" >
 
         <requestFocus />
