@@ -1,4 +1,2 @@
-INDEX VERSION 1.130+C:\Users\XZQ\Desktop\AndroidWorkspaceDemo\space-android\.metadata\.plugins\org.eclipse.jdt.core
-3211574439.index
+INDEX VERSION 1.130+C:\Users\LiuFei\Desktop\AndroidWorkspaceDemo\space-android\.metadata\.plugins\org.eclipse.jdt.core
 3021902840.index
-2706432990.index

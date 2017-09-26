@@ -10,6 +10,11 @@
 	</natures>
 	<linkedResources>
 		<link>
+			<name>.link0</name>
+			<type>2</type>
+			<location>D:/sdk/sources/android-18</location>
+		</link>
+		<link>
 			<name>.link2</name>
 			<type>2</type>
 			<location>D:/sdk/sources/android-18</location>
