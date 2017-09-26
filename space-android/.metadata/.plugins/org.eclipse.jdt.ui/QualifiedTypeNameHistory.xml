@@ -1,2 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="android.test.AndroidTestCase"/>
+<fullyQualifiedTypeName name="android.mtp.MtpConstants"/>
+<fullyQualifiedTypeName name="java.lang.AssertionError"/>
+<fullyQualifiedTypeName name="com.qijia.day03_01testclass.MyMath"/>
+<fullyQualifiedTypeName name="android.util.Log"/>
+</qualifiedTypeNameHistroy>
